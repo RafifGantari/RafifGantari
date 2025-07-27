@@ -18,7 +18,7 @@
 ## 📫 Contact Me
 
 - Email: rafiftaqiy05@gmail.com
-- LinkedIn: [linkedin.com/in/rafif-taqiy-gantari](www.linkedin.com/in/rafif-taqiy-gantari)
+- LinkedIn: [linkedin.com/in/rafif-taqiy-gantari](https.linkedin.com/in/rafif-taqiy-gantari)
 - GitHub: [github.com/rafifgantari](https://github.com/rafifgantari)
 
 Let's connect and collaborate! 🚀
