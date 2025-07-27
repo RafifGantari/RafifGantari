@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafif Taqiy Gantari!
 
-<!--
-**RafifGantari/RafifGantari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Information Systems student at Institut Teknologi Sepuluh Nopember (ITS), Indonesia.
 
-Here are some ideas to get you started:
+💻 Currently focused on:
+- 🔐 Ethical Hacking & Cybersecurity
+- 🤖 Machine Learning & AI
+- 📊 Data Analytics & Information Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+
+- **Languages**: Python, Java, C++, HTML/CSS, Javascript
+
+---
+
+## 📫 Contact Me
+
+- Email: rafifgantari@example.com
+- LinkedIn: [linkedin.com/in/rafifgantari](https://linkedin.com/in/rafifgantari)
+- GitHub: [github.com/rafifgantari](https://github.com/rafifgantari)
+
+Let's connect and collaborate! 🚀
