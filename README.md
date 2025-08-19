@@ -3,7 +3,6 @@
 🎓 I'm an Information Systems student at Institut Teknologi Sepuluh Nopember (ITS), Indonesia.
 
 💻 Currently focused on:
-- 🔐 Ethical Hacking & Cybersecurity
 - 🤖 Machine Learning & AI
 - 📊 Data Analytics & Information Systems
 
