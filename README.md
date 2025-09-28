@@ -10,7 +10,9 @@
 
 ## 🧠 Skills
 
-- **Languages**: Python, Java, C++, HTML/CSS, Javascript
+- **Programming:** Python, C++, Java, Javascript
+- **ML/DL Frameworks:** Scikit-learn, TensorFlow
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
