@@ -28,23 +28,14 @@
 
 ## `> whoami`
 
-```python
-class RafifTaqiyGantari:
-    def __init__(self):
-        self.name        = "Rafif Taqiy Gantari"
-        self.university  = "Institut Teknologi Sepuluh Nopember"
-        self.major       = "Information Systems"
-        self.gpa         = 3.58 / 4.00
-        self.focus       = ["Machine Learning", "Computer Vision", "LLMs", "RAG"]
-        self.currently   = [
-            "Head of Web Dev @ AMPP ITS SC",
-            "Programming Fundamental Teaching Assistant",
-        ]
-        self.goal        = "Solving real-world problems through scalable AI solutions"
-
-    def get_status(self):
-        return "⚡ Always building. Always learning."
-```
+| | |
+|---|---|
+| 🎓 **University** | Institut Teknologi Sepuluh Nopember |
+| 📚 **Major** | Information Systems |
+| 🧠 **Focus** | Machine Learning · Computer Vision · LLMs · RAG |
+| 💼 **Currently** | Head of Web Dev @ AMPP ITS SC · Programming Teaching Assistant |
+| 🎯 **Goal** | Solving real-world problems through scalable AI solutions |
+| ⚡ **Status** | Always building. Always learning. |
 
 ---
 
@@ -82,15 +73,15 @@ class RafifTaqiyGantari:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafifGantari&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=RafifGantari&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafifGantari&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RafifGantari&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RafifGantari&theme=terminal&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&dates=c9d1d9&stroke=00FF41)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RafifGantari&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&dates=c9d1d9&stroke=00FF41&sideLabels=00FF41&sideNums=c9d1d9)](https://github.com/RafifGantari)
 
 </div>
 
@@ -98,26 +89,20 @@ class RafifTaqiyGantari:
 
 ## `> uptime --experience`
 
-```
-[Aug 2024 – Now ] 🎓  Institut Teknologi Sepuluh Nopember      | GPA: 3.58/4.00
-[Feb 2026 – Now ] 👨‍🏫  Programming Fundamental Teaching Asst.  | Guiding next-gen devs
-[Jan 2026 – Now ] 💻  Head of Web Dev @ AMPP ITS SC            | Leading dev team
-[Jan 2026 – Feb ] 🤖  ML Intern @ Codveda Technologies         | 5+ ML projects
-[Jul 2025 – Nov ] 📚  Dicoding Bootcamp — ML Path Batch 8      | Classification / CV / Clustering
-[Sep 2025 – Oct ] 🌐  AI Rising Innovators Academy Awardee     | Top 100 National
-[Oct 2024 – Nov ] 🔬  Programming Intern @ Abinara ITS         | C++ OOP & Computer Vision
-```
+| Period | Role | Details |
+|---|---|---|
+| Aug 2024 – Now | 🎓 Student @ ITS | Information Systems |
+| Feb 2026 – Now | 👨‍🏫 Programming Fundamental Teaching Assistant | Guiding students in core programming concepts |
+| Jan 2026 – Now | 💻 Head of Web Dev @ AMPP ITS SC | Leading dev team · Agile workflow |
+| Jan 2026 – Feb 2026 | 🤖 ML Intern @ Codveda Technologies | 5+ ML projects · Classification / CV / Clustering |
+| Jul 2025 – Nov 2025 | 📚 Dicoding Bootcamp — ML Path Batch 8 | Classification · Regression · Computer Vision |
+| Sep 2025 – Oct 2025 | 🌐 AI Rising Innovators Academy Awardee | Top 100 National · SDGs Innovation Challenge |
+| Oct 2024 – Nov 2024 | 🔬 Programming Intern @ Abinara ITS | C++ OOP · Python Image Processing · OpenCV |
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════╗
-║  "Code is the closest thing we have to  ║
-║   magic — and AI is the spell."         ║
-╚══════════════════════════════════════════╝
-```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=RafifGantari&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 
