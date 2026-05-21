@@ -14,7 +14,7 @@
 
 **`AI & Machine Learning Engineer`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+systems+%F0%9F%A4%96;Computer+Vision+%7C+LLMs+%7C+RAG+Systems;Turning+data+into+intelligent+solutions;ITS+Information+Systems+%7C+GPA+3.58%2F4.00)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+systems+%F0%9F%A4%96;Computer+Vision+%7C+LLMs+%7C+RAG+Systems;Turning+data+into+intelligent+solutions;ITS+Information+Systems)](https://git.io/typing-svg)
 
 <br/>
 
